@@ -1,8 +1,8 @@
 ### Hello there, I'm Jonathan, online I go as J,
 
 ## I'm a Indie Games Developer 
-- 🔭 I’m currently working on Micro Arcade & The Isolation of Isabelle
-- 🌱 I’m currently learning additional C# & looking to learn Unreal Engine & Blender by the end of the year.
+- 🔭 I’m currently working onLost My Marbles & some jam projects
+- 🌱 I’m currently learning additional C# & looking to learn Unreal Engine & Blender by the end of next year.
 - ⚡ Fun fact: I have 1 more bone than most adults
 
 ### Connect with me
