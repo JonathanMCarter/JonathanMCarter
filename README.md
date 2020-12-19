@@ -1,9 +1,9 @@
 ### Hello there, I'm Jonathan, online I go as J,
 
 ## I'm a Indie Games Developer 
-- 🔭 I’m currently working onLost My Marbles & some jam projects
+- 🔭 I’m currently working on the odd game jam and the remaking of C.W.I.S & Micro Arcade.
 - 🌱 I’m currently learning additional C# & looking to learn Unreal Engine & Blender by the end of next year.
-- ⚡ Fun fact: I have 1 more bone than most adults
+- ⚡ Fun fact: I have 1 more bone than most adults.
 
 ### Connect with me
 [<img align="left" alt="jonathan.carter.games" width="48px" src="https://i.imgur.com/tzJm17w.png" />][port]
