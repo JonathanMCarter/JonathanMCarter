@@ -1,8 +1,6 @@
 ## ✨ I'm a Indie Computer Games Developer.
 Hi, I'm Jonathan, a Graduate Computer Games Developer, currently working as and Indie Game Developer in my free time and currently working as a Temp Functionality QA Tester. I run Carter Games as my indie brand to release under, a lot of my latest work is on there. Here you will find personal projects, game jams & university project repositories. 
 
-<br /><br />
-
 ### 🛠️ Tools & Programming Languages 
 ##### Proficent:
 ![](https://img.shields.io/badge/Engie-Unity-44924C?style=flat-square&logo=unity) ![](https://img.shields.io/badge/Code-C%23-44924C?style=flat-square&logo=c-sharp) ![](https://img.shields.io/badge/Tools-Github-44924C?style=flat-square&logo=github) ![](https://img.shields.io/badge/Editor-Visual%20Studio-44924C?style=flat-square&logo=visual-studio)
