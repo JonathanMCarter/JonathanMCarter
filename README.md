@@ -1,35 +1,15 @@
-### Hello there, I'm Jonathan, online I go as J,
-
-## I'm a Indie Games Developer 
-- 🔭 I’m currently working on the odd game jam and the remaking of C.W.I.S & Micro Arcade.
-- 🌱 I’m currently learning additional C# & looking to learn Unreal Engine & Blender by the end of next year.
-- ⚡ Fun fact: I have 1 more bone than most adults.
-
-### Connect with me
-[<img align="left" alt="jonathan.carter.games" width="48px" src="https://i.imgur.com/tzJm17w.png" />][port]
-[<img align="left" alt="J, | YouTube" width="48px" src="https://i.imgur.com/XhMcHp8.png" />][youtube]
-[<img align="left" alt="Carter Games | Twitter" width="48px" src="https://i.imgur.com/fs6SDL3.png" />][twitter]
-[<img align="left" alt="Jonathan Carter | LinkedIn" width="48px" src="https://i.imgur.com/iODBo5C.png" />][linkedin]
-[<img align="left" alt="Carter Games | Instagram" width="48px" src="https://i.imgur.com/3W6AKZb.png" />][instagram]
+## ✨ I'm a Indie Computer Games Developer.
+Hi, I'm Jonathan, a Graduate Computer Games Developer, currently working as and Indie Game Developer in my free time and currently working as a Temp Functionality QA Tester. I run Carter Games as my indie brand to release under, a lot of my latest work is on there. Here you will find personal projects, game jams & university project repositories. 
 
 <br /><br />
 
-### Tools & Programming Languages 
-##### I Have Strong Knowledge Of:
-<img align="left" alt="Unity" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
-<img align="left" alt="C#" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="GitHub" width="48px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+### 🛠️ Tools & Programming Languages 
+##### Proficent:
+![](https://img.shields.io/badge/Engie-Unity-44924C?style=flat-square&logo=unity) ![](https://img.shields.io/badge/Code-C%23-44924C?style=flat-square&logo=c-sharp) ![](https://img.shields.io/badge/Tools-Github-44924C?style=flat-square&logo=github) ![](https://img.shields.io/badge/Editor-Visual%20Studio-44924C?style=flat-square&logo=visual-studio)
 <br /><br />
 
-##### I Have Some Knowledge Of:
-<img align="left" alt="Unreal Engine" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />
-<img align="left" alt="C++" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Python" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="JavaScript" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="PHP" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-
+##### Knowledge Of:
+![](https://img.shields.io/badge/Engie-Unreal%20Engine%204-5C652D?style=flat-square&logo=unreal-engine) ![](https://img.shields.io/badge/Code-C++-5C652D?style=flat-square&logo=C%2B%2B) ![](https://img.shields.io/badge/Code-Python-5C652D?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Code-Html%205-5C652D?style=flat-square&logo=html5&logoColor=white)  ![](https://img.shields.io/badge/Code-Java%20Script-5C652D?style=flat-square&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/Code-mySQL-5C652D?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Code-Php-5C652D?style=flat-square&logo=php&logoColor=white)
 
 [port]: https://jonathan.carter.games
 [youtube]: https://www.youtube.com/channel/UCyiWPX6M3StP1Z3hB9b1rzA
@@ -44,7 +24,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
