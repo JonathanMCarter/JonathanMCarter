@@ -27,5 +27,5 @@ Hi, I'm Jonathan, a Graduate Computer Games Developer, currently working as and 
 [pythonbadge]: https://img.shields.io/badge/Code-Python-5C652D?style=for-the-badge&logo=python&logoColor=white
 [htmlbadge]: https://img.shields.io/badge/Code-Html%205-5C652D?style=for-the-badge&logo=html5&logoColor=white
 [jsbadge]: https://img.shields.io/badge/Code-Java%20Script-5C652D?style=for-the-badge&logo=javascript&logoColor=white
-[sqlbadge]: https://img.shields.io/badge/Code-mySQL-5C652D?style=for-the-badgee&logo=mysql&logoColor=white
+[sqlbadge]: https://img.shields.io/badge/Code-mySQL-5C652D?style=for-the-badge&logo=mysql&logoColor=white
 [phpbadge]: https://img.shields.io/badge/Code-Php-5C652D?style=for-the-badge&logo=php&logoColor=white
