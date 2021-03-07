@@ -1,5 +1,5 @@
-## ✨ I'm a Indie Computer Games Developer.
-Hi, I'm Jonathan, a Graduate Computer Games Developer, currently working as and Junior Programmer. I run Carter Games as my indie brand to release under, a lot of my latest personal work is on there. Here you will find personal projects, game jams & university project repositories. 
+## ✨ I'm a Junior Games Programmer.
+Hi, I'm Jonathan, a Junior Games Programmer. I run Carter Games as my indie brand to release under, a lot of my latest personal work is on there. Here you will find personal projects, game jams & university project repositories. 
 
 ### 🛠️ Tools & Programming Languages 
 ##### Proficent:
