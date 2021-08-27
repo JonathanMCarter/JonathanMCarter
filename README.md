@@ -3,7 +3,7 @@ Hi, I'm Jonathan, a Junior Games Programmer. I run Carter Games as my indie bran
 
 ### 🛠️ Tools & Programming Languages 
 ##### Proficent:
-![unitybadge] ![csharpbadge] ![gitbadge] ![visualbadge] ![riderbadge]
+![unitybadge] ![csharpbadge] ![gitbadge] ![visualbadge] ![riderbadge] ![bitbucketbadge]
 
 ##### Knowledge Of:
 ![unrealbadge] ![cppbadge] ![pythonbadge] ![htmlbadge] ![jsbadge] ![sqlbadge] ![phpbadge]
@@ -16,14 +16,15 @@ Hi, I'm Jonathan, a Junior Games Programmer. I run Carter Games as my indie bran
 [instagram]: https://www.instagram.com/cartergamesuk/
 
 <!-- Proficient Badges -->
-[unitybadge]: https://img.shields.io/badge/Engie-Unity-44924C?style=for-the-badge&logo=unity
+[unitybadge]: https://img.shields.io/badge/Engine-Unity-44924C?style=for-the-badge&logo=unity
 [csharpbadge]: https://img.shields.io/badge/Code-C%23-44924C?style=for-the-badge&logo=c-sharp
 [gitbadge]: https://img.shields.io/badge/Tools-Github-44924C?style=for-the-badge&logo=github
 [visualbadge]: https://img.shields.io/badge/Editor-Visual%20Studio-44924C?style=for-the-badge&logo=visual-studio
 [riderbadge]: https://img.shields.io/badge/Editor-Rider-44924C?style=for-the-badge&logo=rider
+[bitbucketbadge]: https://img.shields.io/badge/Tools-BitBucket-44924C?style=for-the-badge&logo=bitbucket
 
 <!-- Knowledge of Badges -->
-[unrealbadge]: https://img.shields.io/badge/Engie-Unreal%20Engine%204-5C652D?style=for-the-badge&logo=unreal-engine
+[unrealbadge]: https://img.shields.io/badge/Engine-Unreal%20Engine%204-5C652D?style=for-the-badge&logo=unreal-engine
 [cppbadge]: https://img.shields.io/badge/Code-C++-5C652D?style=for-the-badge&logo=C%2B%2B
 [pythonbadge]: https://img.shields.io/badge/Code-Python-5C652D?style=for-the-badge&logo=python&logoColor=white
 [htmlbadge]: https://img.shields.io/badge/Code-Html%205-5C652D?style=for-the-badge&logo=html5&logoColor=white
